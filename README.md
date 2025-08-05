@@ -52,3 +52,4 @@ A simple **Streamlit web app** that performs **multilingual machine translation*
 ##  Future Improvements
 - Add BLEU or semantic similarity metrics for evaluation.
 - Support additional languages.
+- Add sentiments like happy, sad, whisper etc.
