@@ -1,0 +1,5 @@
+gTTS==2.5.4
+streamlit==1.47.1
+torch==2.7.1
+transformers==4.54.1
+sentencepiece==0.2.0
